@@ -1,0 +1,6 @@
+@Paltineanu_Vlad_Lab11_HostAddress = http://localhost:5138
+
+GET {{Paltineanu_Vlad_Lab11_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
